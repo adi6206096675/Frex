@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# C++ Build artifacts
+*.so
+*.o
+*.a
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# System / IDE
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "pybind11>=2.10.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "frex"
+version = "0.1.0"
+description = "A Paged Engine Designed to Mitigate Out Of Memory Errors."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
