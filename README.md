@@ -1,7 +1,11 @@
 # Frex AI Framework
 
+
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Frex:+High-Performance+UVM+AI+Engine;AROM+Labs+Deep+Learning;Built+for+Efficiency+at+Scale)
+
+
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
- ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Frex:+High-Performance+UVM+AI+Engine;AROM+Labs+Deep+Learning;Built+for+Efficiency+at+Scale)
+
 
 Frex is a high-performance, Unified Virtual Memory (UVM) Deep Learning framework designed for constrained hardware and efficient large-scale training. Developed under **AROM Labs**, Frex abstracts the complexity of memory management and allows models to scale beyond the physical limitations of GPU VRAM by utilizing intelligent page-spilling into system RAM.
 
